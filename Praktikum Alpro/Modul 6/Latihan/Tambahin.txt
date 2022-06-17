@@ -1,0 +1,7 @@
+Hai selamat datang di Praktikum Modul 6 coba dong tambahin text ini dengan 
+Nama,Kelas,NIM, dan Motto ya
+
+Nama	: Rafi
+NIM		: 1202210305
+Kelas	: SI-45-03
+Motto	: Just Do It
